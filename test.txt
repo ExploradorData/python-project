@@ -2,7 +2,7 @@ Hello.
 This is front-end branch
 I am writing these lines in Git lesson
 At first it is difficult to understand Git
-But it si getting clear in my mind day by day
+But it is getting clear in my mind day by day
 Train your brain
 Study hard
 Don't give up
